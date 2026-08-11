@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Ajees Smart Alert App",
+    "slug": "ajees-smart-alert-app",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
